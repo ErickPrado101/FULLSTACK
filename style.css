@@ -1,0 +1,77 @@
+body {
+    background-color: #e20002;
+  }
+.borda {
+    width: 100%;
+    height: 5px;
+    background-size: center;
+    background-color: #FF8C00;
+}
+.header {
+    width: 100%;
+    background: #ab141b;
+    background-size: center;
+    padding: 70px;
+}
+.topo {
+    text-align: left;
+}
+.topo ul li {
+    display: inline-block;
+    margin-left: 35px;
+    margin-top: 2px;
+}
+.topo ul li a {
+    font-family: Hastagirl;
+    font-size: 25px;
+    font-weight: bold;
+    color: #FFF;
+    text-transform: uppercase;
+    line-height: 20px;
+
+}
+
+.topo ul li a:hover {
+    color: #FF8C00;    
+
+}
+.banner {
+  
+    width: 100px;
+    height: 500px;
+    background:    #f10006 url(https://pr1.nicelocal.br.com/g0Cp1iz25kUDGPzwOwCsfw/630x384,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2XAIh5MA7cxTXF5F_rqbHccSuHoZS0wE1k6fgmZPQ89KUSXdoWmSGGJn3IC80KYSNw);
+    background-repeat: no-repeat;
+    background-size: center;
+    color: #FFF;
+    text-transform: uppercase;
+    margin-top: 110px;
+}
+
+.banner h1 {
+    font-family: Oswald;
+    font-size: 70px;
+    font-weight: bold;
+    color: #FFF;
+    text-transform: uppercase;
+    margin-top: 110px;
+    text-shadow: black 2px 2px 10px;
+}
+
+.banner a {
+    margin-left: 80%;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 25px 25px;
+    width: 500px color#FFF;
+    background: rgb(255, 154, 2);
+    border: radius 50px;
+    box-shadow: black2 px 2px 10px;
+}
+
+.banner a:hover {
+    background: yellow;
+    width: 100%;
+    color: black;
+    transition: all 0.5s;
+    box-shadow: black 2px 2px 10px;
+}
